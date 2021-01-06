@@ -3,7 +3,7 @@ Group-Id: io.jenkins.plugins
 Short-Name: demo
 Long-Name: TODO Plugin
 Minimum-Java-Version: 1.8
-Plugin-Version: 1.0-SNAPSHOT (private-01/06/2021 15:37-sagarkhurana)
+Plugin-Version: 1.0-SNAPSHOT (private-22346b72-sagarkhurana)
 Hudson-Version: 2.164.1
 Jenkins-Version: 2.164.1
 Plugin-Dependencies: structs:1.19

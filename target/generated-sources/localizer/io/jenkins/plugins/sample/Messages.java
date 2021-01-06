@@ -92,22 +92,22 @@ public class Messages {
     }
 
     /**
-     * Key {@code HelloWorldBuilder.DescriptorImpl.DisplayName}: {@code Say
-     * hello world}.
+     * Key {@code HelloWorldBuilder.DescriptorImpl.DisplayName}: {@code This
+     * says Hello}.
      * 
      * @return
-     *     {@code Say hello world}
+     *     {@code This says Hello}
      */
     public static String HelloWorldBuilder_DescriptorImpl_DisplayName() {
         return holder.format("HelloWorldBuilder.DescriptorImpl.DisplayName");
     }
 
     /**
-     * Key {@code HelloWorldBuilder.DescriptorImpl.DisplayName}: {@code Say
-     * hello world}.
+     * Key {@code HelloWorldBuilder.DescriptorImpl.DisplayName}: {@code This
+     * says Hello}.
      * 
      * @return
-     *     {@code Say hello world}
+     *     {@code This says Hello}
      */
     public static Localizable _HelloWorldBuilder_DescriptorImpl_DisplayName() {
         return new Localizable(holder, "HelloWorldBuilder.DescriptorImpl.DisplayName");
